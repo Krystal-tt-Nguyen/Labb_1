@@ -1,7 +1,7 @@
 ﻿// Laboration_1: Algoritmer
 
 Console.Write("Please write some text: ");
-string userInput = Console.ReadLine();      //test = "29535123p48723487597645723645"
+string userInput = Console.ReadLine();     
 Console.WriteLine();
 
 ulong sum = 0;
